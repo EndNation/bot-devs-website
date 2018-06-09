@@ -1,0 +1,23 @@
+{
+  "name": "botdevswebsite",
+  "version": "1.0.0",
+  "description": "Looks like DiscordBots website...for now",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EndNation/bot-devs-website.git"
+  },
+  "author": "TheDarkSid3r",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EndNation/bot-devs-website/issues"
+  },
+  "engines": {
+		"node": "8.11.2",
+		"npm": "5.6.0"
+	},
+  "homepage": "https://github.com/EndNation/bot-devs-website#readme"
+}
